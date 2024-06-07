@@ -40,10 +40,10 @@ public class SwaggerConfiguration {
 //				.url("https://choosealicense.com/licenses/mit/");
 
 		Info info = new Info()
-				.title("Meu conversor mp3")
+				.title("My media converter")
 				.contact(contact)
 //				.version("1.0")
-				.description("Projeto exemplo CRUD - API Spring + Angular para portifólio.");
+				.description("Projeto modelo para conversão de aúdio e vídeo");
 //				.termsOfService("")
 //				.license(null);
 
